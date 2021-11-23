@@ -1,6 +1,6 @@
-Nama : Sitti Mahmudah
+Nama : Nelly Maulia
 
-NIM : E41201553
+NIM : E41202464
 
 Prodi : Teknik Informatika
 
